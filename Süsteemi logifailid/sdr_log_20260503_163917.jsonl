@@ -1,0 +1,19 @@
+{"tunnused": {"snr": 40.94, "hrl": 4414062.0, "lamedus": 0.02, "liigitus": "peenriba", "nurk": -18.2, "rx1_rssi": -76.0, "rx2_rssi": -87.8}, "gnss": null, "aeg": 1777815557.8124855}
+{"tunnused": {"snr": 43.85, "hrl": 3242188.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -29.3, "rx1_rssi": -74.0, "rx2_rssi": -84.5}, "gnss": null, "aeg": 1777815557.938748}
+{"tunnused": {"snr": 47.18, "hrl": 2187500.0, "lamedus": 0.0, "liigitus": "peenriba", "nurk": -43.2, "rx1_rssi": -70.9, "rx2_rssi": -79.7}, "gnss": null, "aeg": 1777815558.1705127}
+{"tunnused": {"snr": 45.32, "hrl": 2187500.0, "lamedus": 0.0, "liigitus": "peenriba", "nurk": -48.3, "rx1_rssi": -70.4, "rx2_rssi": -81.0}, "gnss": null, "aeg": 1777815558.297566}
+{"tunnused": {"snr": 44.2, "hrl": 2304688.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -54.1, "rx1_rssi": -67.9, "rx2_rssi": -77.9}, "gnss": null, "aeg": 1777815558.7484052}
+{"tunnused": {"snr": 44.53, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -48.5, "rx1_rssi": -67.8, "rx2_rssi": -76.6}, "gnss": null, "aeg": 1777815558.8469944}
+{"tunnused": {"snr": 44.46, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -41.8, "rx1_rssi": -69.1, "rx2_rssi": -80.4}, "gnss": null, "aeg": 1777815559.1676447}
+{"tunnused": {"snr": 46.62, "hrl": 2343750.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -47.5, "rx1_rssi": -71.0, "rx2_rssi": -78.2}, "gnss": null, "aeg": 1777815559.3676705}
+{"tunnused": {"snr": 49.4, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -40.8, "rx1_rssi": -70.6, "rx2_rssi": -82.6}, "gnss": null, "aeg": 1777815559.3906953}
+{"tunnused": {"snr": 44.51, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -48.9, "rx1_rssi": -69.4, "rx2_rssi": -80.8}, "gnss": null, "aeg": 1777815559.418707}
+{"tunnused": {"snr": 44.95, "hrl": 2304688.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -33.4, "rx1_rssi": -70.6, "rx2_rssi": -85.2}, "gnss": null, "aeg": 1777815559.5176682}
+{"tunnused": {"snr": 45.04, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -42.1, "rx1_rssi": -70.5, "rx2_rssi": -81.3}, "gnss": null, "aeg": 1777815559.5901623}
+{"tunnused": {"snr": 47.03, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -36.8, "rx1_rssi": -72.0, "rx2_rssi": -83.8}, "gnss": {"laius": 58.3761131, "pikkus": 26.5533944, "suund": 199.3}, "aeg": 1777815559.9475195}
+{"tunnused": {"snr": 47.76, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -30.8, "rx1_rssi": -69.7, "rx2_rssi": -85.2}, "gnss": {"laius": 58.3760235, "pikkus": 26.5533606, "suund": 191.2}, "aeg": 1777815560.1537204}
+{"tunnused": {"snr": 45.48, "hrl": 3789062.0, "lamedus": 0.0, "liigitus": "peenriba", "nurk": -36.5, "rx1_rssi": -73.1, "rx2_rssi": -93.9}, "gnss": {"laius": 58.3758975, "pikkus": 26.5533521, "suund": 182.0}, "aeg": 1777815561.8208191}
+{"tunnused": {"snr": 45.54, "hrl": 2148438.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -29.0, "rx1_rssi": -71.4, "rx2_rssi": -92.0}, "gnss": {"laius": 58.3757701, "pikkus": 26.5533576, "suund": 178.7}, "aeg": 1777815562.6800427}
+{"tunnused": {"snr": 45.55, "hrl": 3593750.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -23.7, "rx1_rssi": -74.6, "rx2_rssi": -95.3}, "gnss": {"laius": 58.3756232, "pikkus": 26.5533684, "suund": 177.8}, "aeg": 1777815563.7367494}
+{"tunnused": {"snr": 44.38, "hrl": 2187500.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": 0.0, "rx1_rssi": -73.5, "rx2_rssi": -94.5}, "gnss": {"laius": 58.3756232, "pikkus": 26.5533684, "suund": 177.8}, "aeg": 1777815563.9026835}
+{"tunnused": {"snr": 46.28, "hrl": 2382812.0, "lamedus": 0.01, "liigitus": "peenriba", "nurk": -17.1, "rx1_rssi": -73.6, "rx2_rssi": -95.9}, "gnss": {"laius": 58.3751754, "pikkus": 26.5534221, "suund": 175.4}, "aeg": 1777815566.294264}
